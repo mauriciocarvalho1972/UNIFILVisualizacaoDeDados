@@ -142,6 +142,8 @@ Instale as dependências:
 ```bash
 pip install streamlit pandas plotly
 
+
+
 Execute o projeto:
 
 ```bash

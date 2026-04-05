@@ -145,4 +145,4 @@ pip install streamlit pandas plotly
 Execute o projeto:
 
 ```bash
-pip install streamlit pandas plotly
+python -m streamlit run dshvinhos.py
